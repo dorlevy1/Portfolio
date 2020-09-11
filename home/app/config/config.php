@@ -3,7 +3,8 @@
 
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PSW', 'i6263xsd');
+// define('DB_PSW', 'i6263xsd');
+define('DB_PSW', '');
 define('DB_NAME', 'mypage');
 //For the App Root
 define('APP_ROOT', dirname(dirname(__FILE__)));
@@ -11,6 +12,9 @@ define('APP_ROOT', dirname(dirname(__FILE__)));
 define('URL_ROOT', 'http://dordl.com');
 //SITE NAME 
 define('SITE_NAME', 'Fullstack Web Developer - Dor Dylan Levy');
+
+
+
 
 ?>
 <script>
