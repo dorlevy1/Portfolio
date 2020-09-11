@@ -1,24 +1,9 @@
 <div id="footer">
     <div class="flex-row container footer">
-        <div class="details">
-            <table>
-                <tr>
-                    <th class="td-width">Email</th>
-                    <th class="" style="padding-left: 42px;">Phone No.</th>
-                </tr>
-                <tr>
-                    <td class="">DDL105095@gmail.com</td>
-                    <td class="td-space">+972 52-593-8898</td>
-                </tr>
-            </table>
+        <div class="madeby">
+            <p> Website by Dor Dylan Levy
+                © 2020 All rights reserved.</p>
         </div>
-        <div class="subscribe flex-row">
-            <input type="email" placeholder="Subscribe ! " class="email" name="email" id="email"> <input class="subscribe_submit" type="submit" value="SEND">
-        </div>
-    </div>
-    <div class="madeby">
-        <p> Website by Dor Dylan Levy
-            © 2020 All rights reserved.</p>
     </div>
 </div>
 </div>
